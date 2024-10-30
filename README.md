@@ -6,6 +6,10 @@ https://github.com/kreait/laravel-firebase
 
 dalam project ini lokasi google-service di letakkan pada
 
+```env
+FIREBASE_CREDENTIALS=storage/app/private/firebase-auth.json
+```
+
 file ini di dapatkan dari generate json Service Account pada project firebase anda
 
 ```txt
@@ -23,10 +27,6 @@ Securely store the JSON file containing the key.
 
 Dokumentasi pada link berikut:
     https://firebase.google.com/docs/admin/setup#initialize_the_sdk_in_non-google_environments
-```
-
-```env
-FIREBASE_CREDENTIALS=storage/app/private/firebase-auth.json
 ```
 
 # Dokumentasi Firebase Push Notifications menggunakan React Native
