@@ -38,5 +38,5 @@ https://rnfirebase.io/messaging/usage
 # Dokumentasi Authentikasi Google
 
 ```bash
-https://firebase.google.com/docs/cloud-messaging/migrate-v1#java_1
+https://firebase.google.com/docs/cloud-messaging/migrate-v1
 ```
